@@ -1,2 +1,2 @@
-# neural_crawling
-Neural Prioritisation for Web Crawling. Accepted at ICTIR 2025.
+# Neural Prioritisation for Web Crawling
+Code will be released soon.
