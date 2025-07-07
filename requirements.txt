@@ -1,0 +1,7 @@
+pyterrier-alpha
+numpy
+pyyaml
+pyterrier-pisa
+pybloom-live
+fastbloom-rs
+datasets
