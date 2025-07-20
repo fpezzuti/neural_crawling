@@ -1,6 +1,6 @@
 # Neural Prioritisation for Web Crawling
 
-This repository contains the source code used for the experiments presented in the paper "Neural Prioritisation for Web Crawling" by Francesca Pezzuti, Sean MacAvaney and Nicola Tonellotto, accepted for publication at ICTIR2025 - [PDF](https://arxiv.org/abs/2506.16146).
+This repository contains the source code used for the experiments presented in the paper "Neural Prioritisation for Web Crawling" by Francesca Pezzuti, Sean MacAvaney and Nicola Tonellotto, published at ICTIR2025 - [PDF](https://dl.acm.org/doi/10.1145/3731120.3744597).
 
 ## Usage
 
